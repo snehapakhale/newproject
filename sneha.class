@@ -1,6 +1,6 @@
 class sneha{
 		public static void main(String[] args){
 		  System.out.println("This is the first programm here");
-
+		  System.out.println("Second line added to the program");
 }
 }
